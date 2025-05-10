@@ -135,8 +135,6 @@ I'm a passionate and curious Computer Engineering undergraduate driven by a cons
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krushnadiwate2417&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushnadiwate2417&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushnadiwate2417&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
