@@ -1,15 +1,14 @@
-# <div align="center">👋 Hi there, I'm Krushna Diwate</div>
+# <div align="center">👋 Hello there, I'm Krushna Diwate</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=4C8EDA&center=true&vCenter=true&random=false&width=500&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=4C8EDA&center=true&vCenter=true&random=false&width=500&lines=B.E.+Computer+Engineer;Full-Stack+Web+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
 
-I'm a passionate and curious Computer Engineering undergraduate driven by a constant desire to learn and build. With hands-on experience developing full-stack web applications using technologies like React, Node.js, MongoDB, and Firebase, I love transforming ideas into practical solutions. My curiosity fuels my exploration of emerging tools, while my enthusiasm keeps me pushing boundaries—from implementing AI-powered features in projects to contributing to real-world applications during internships. I thrive in collaborative environments and continuously strive to enhance my skills, making me an eager learner ready to take on new challenges in tech.
+I'm a passionate and curious Computer Engineeri driven by a constant desire to learn and build. With hands-on experience developing full-stack web applications using technologies like React, Node.js, MongoDB, and Firebase, I love transforming ideas into practical solutions. My curiosity fuels my exploration of emerging tools, while my enthusiasm keeps me pushing boundaries—from implementing AI-powered features in projects to contributing to real-world applications during internships. I thrive in collaborative environments and continuously strive to enhance my skills, making me an eager learner ready to take on new challenges in tech.
 
-- 🔭 Currently studying at **NMVPM's NMIET, Pune**
-- 🌱 I'm currently learning **Next.js, Java and DSA**
+- 🌱 I'm currently learning **System Design & AI**
 - 👨‍💻 All of my projects are available at [my portfolio](https://krushnadiwate2417.github.io/Portfolio/)
 - 📫 Reach me at **krushnadiwate2417@gmail.com**
 - ⚡ Fun fact: **I love debugging as much as I love coding!**
